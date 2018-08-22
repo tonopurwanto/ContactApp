@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("MainActivity", "testing source control");
+        Log.d("MainActivity", "testing source control from other machine");
     }
 }
